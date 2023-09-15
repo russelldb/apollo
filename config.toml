@@ -4,10 +4,11 @@ build_search_index = false
 generate_feed = true
 compile_sass = true
 minify_html = true
+external_links_target_blank = true
 
 [markdown]
 highlight_code = true
-highlight_theme = "ayu-dark"
+highlight_theme = "solarized-light"
 
 [extra]
 toc = true

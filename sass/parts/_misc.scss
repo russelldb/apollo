@@ -11,17 +11,6 @@
   background-color: var(--primary-color);
 }
 
-::-moz-selection {
-  background: var(--primary-color);
-  color: var(--hover-color);
-  text-shadow: none;
-}
-
-::selection {
-  background: var(--primary-color);
-  color: var(--hover-color);
-}
-
 p {
   line-height: 1.5;
 }
@@ -42,7 +31,6 @@ blockquote {
 a {
   border-bottom: 3px solid var(--primary-color);
   color: inherit;
-  text-decoration: none;
 }
 
 a:hover {
